@@ -12,7 +12,7 @@ title                    : "Yuanzhi's Homepage"
 title_separator          : "-"
 name                     : &name "Yuanzhi Ma"
 description              : &description "personal description"
-url                      : "https://joshyzma.github.io/Joshua-Ma.github.io/"
+url                      : "https:https://joshyzma.github.io/Web/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "FD56A2DC-754F-4B1D-BF17-0BED16F04EA2.jpeg"
   name             : "Yuanzhi(Joshua Ma)"
   pronouns         : "He/Him"  
-  bio              : "MEng Student @ Cornell"
+  bio              : "MFE Student @ Cornell, Umich 23'"
   location         : "Ithaca, New York"
   employer         : "Cornell University"
   email            : "ym533@cornell.edu" 
@@ -34,7 +34,7 @@ author:
   github           : "/joshyzma"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/joshyzma/"
+  linkedin         : "/joshyzma/"
 
 
 
