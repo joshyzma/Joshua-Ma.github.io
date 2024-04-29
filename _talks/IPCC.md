@@ -1,8 +1,8 @@
 ---
 title: "2024 Cornell Investment Portfolio Case Competition (IPCC)"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+type: "Competition"
+permalink: /talks/IPCC
 venue: "Cornell University"
 date: 2024-02-01
 location: "Ithaca, NY"
