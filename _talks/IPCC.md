@@ -4,7 +4,7 @@ collection: talks
 type: "Competition"
 permalink: /talks/IPCC
 venue: "Cornell University"
-date: 2024-02-01
+date: 2024-02
 location: "Ithaca, NY"
 ---
 
